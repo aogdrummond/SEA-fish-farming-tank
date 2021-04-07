@@ -3,10 +3,12 @@
 Created on Mon Apr  5 23:58:56 2021
 
 @author: aogdrummond
+[BEING DEBBUGED YET]
 """
 
 import numpy as np
 import math
+
 #%% System's Constants
 
 rho0 = 1.2922        #air density [kg/m³]
